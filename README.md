@@ -1,4 +1,4 @@
-# etimo-weather-app
+# vue-weather-app
 
 ## Project setup
 ```
